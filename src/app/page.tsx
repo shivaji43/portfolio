@@ -12,7 +12,7 @@ export default function Home() {
     <div className={`${spaceGrotesk.className} container mx-auto px-4`}>
       <div className="flex justify-center mt-2 sm:mt-8 md:mt-16 lg:mt-8 space-x-3">
         <a
-          href="https://www.linkedin.com/in/shivaji-raut"
+          href="https://www.linkedin.com/in/shivajiraut/"
           target="_blank"
           rel="noopener noreferrer"
         >
