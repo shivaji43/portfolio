@@ -10,6 +10,16 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Shivaji Raut - Full Stack Developer",
   description: "Portfolio of Shivaji Raut, Full Stack Developer",
+  openGraph: {
+    images: [
+      {
+        url: '/batman.png',
+        width: 1200,
+        height: 630,
+        alt: 'Shivaji Raut - Full Stack Developer',
+      },
+    ],
+  },
 }
 
 export default function RootLayout({
